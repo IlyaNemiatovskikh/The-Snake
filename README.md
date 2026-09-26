@@ -21,5 +21,5 @@ pip install -r requirements.txt
 python the_snake.py
 ```
 
-Для Python 3.14 и новее requirements.txt ставит pygame-ce, для более старых
-версий обычный pygame. Запуск игры проверен на Python 3.14.4 и pygame-ce 2.5.8.
+Для Python 3.14 и новее requirements.txt устанавливает pygame-ce, для более старых
+версий pygame. Запуск игры проверен на Python 3.14.4 и pygame-ce 2.5.8.
