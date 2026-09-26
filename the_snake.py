@@ -1,3 +1,5 @@
+"""Игра «Змейка» на Pygame."""
+
 from random import choice, randint
 
 import pygame
