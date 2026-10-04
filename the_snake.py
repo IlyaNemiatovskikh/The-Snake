@@ -1,4 +1,4 @@
-"""Игра «Изгиб Питона» на Pygame."""
+"""Игра Змейка на Pygame."""
 
 import sys
 from random import choice
