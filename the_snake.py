@@ -31,7 +31,6 @@ DOWN = (0, 1)
 LEFT = (-1, 0)
 RIGHT = (1, 0)
 
-
 # Задаем противоположные направления для запрета разворота на 180 градусов:
 REVERSE_DIRECTIONS = {UP: DOWN, DOWN: UP, LEFT: RIGHT, RIGHT: LEFT}
 DIRECTION_BY_KEY = {
